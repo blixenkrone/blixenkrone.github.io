@@ -6,6 +6,7 @@ defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 
 theme = "hugo-coder"
+themesDir = "./themes"
 title = "Simon Blixenkrone"
 
 defaultcontentlanguage = "en"
@@ -28,8 +29,8 @@ disqusShortname = "blix"
     description = "My and myself"
     keywords = "portfolio,developer,personal"
     avatarurl = "assets/mig.png"
-    favicon_32 = "/img/favicon-32x32.png"
-    favicon_16 = "/img/favicon-16x16.png"
+    favicon_16 = "/images/favicon-16x16.png"
+    favicon_32 = "/images/favicon-32x32.png"
 
     footercontent = "sblixenkrone@gmail.com // @blixenkrone"
     hidecredits = true
