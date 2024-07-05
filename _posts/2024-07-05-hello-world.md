@@ -1,13 +1,12 @@
 ---
 title: 'Hello World'
 date: 2024-07-05
-permalink: /posts/2024/07/hello-word/
+permalink: /posts/2024-07/hello-word/
 tags:
   - Hello World
   - First post
 ---
 
-## Greetings traveller!
 <p>In this years' summer, I finally convinced myself to publish my sideprojects and tinkering as someone who enjoys software, coding and tech. </p>
 <p>This will be my way of giving something back to the community, which has helped me so much in my own journey.</p>
 
