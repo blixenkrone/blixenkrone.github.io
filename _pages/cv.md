@@ -15,7 +15,7 @@ redirect_from:
   * Self-employed as a Senior Software Engineer across various projects and OSS (Open Source Software)
 
 ## Clicks and Mortar
-* Senior Technical Lead & System Architect - 10/2022-05/2024, London, UK (Remote) 
+* Senior Technical Lead & Systems Architect - 10/2022-05/2024, London, UK (Remote) 
   * Day 0 founding engineer.
   * Designing and implementing core architecture, infrastructure solutions and tooling for a high scale, high throughput distributed event-driven platform on AWS.
   * Responsible of providing libraries and interfaces with abstractions to pub/sub, database/storages and CLI tooling for product developers to build from and accelerate business logic.
