@@ -15,21 +15,21 @@ redirect_from:
   * Self-employed as a Senior Software Engineer across various projects and OSS (Open Source Software)
 
 ## Clicks and Mortar
-* Senior Technical Lead - 10/2022-05/2024, London, UK (Remote) 
-  * Day 0 founding engineer. 
-  * Designing and implementing core architecture, infrastructure solutions and tooling for a high scale, high throughput distributed event-driven platform.
+* Senior Technical Lead & System Architect - 10/2022-05/2024, London, UK (Remote) 
+  * Day 0 founding engineer.
+  * Designing and implementing core architecture, infrastructure solutions and tooling for a high scale, high throughput distributed event-driven platform on AWS.
   * Responsible of providing libraries and interfaces with abstractions to pub/sub, database/storages and CLI tooling for product developers to build from and accelerate business logic.
   * Providing infrastructure as code and internal tooling to automate creation and deployments of secure cloud microservices for multi environments in minutes on AWS using CI and laC.
 
 ## Just Eat
 * Senior Software Engineer & Technical Lead - 11/2021-06/2022, London, UK (Remote)
   * Senior Go Engineer and Tech Lead for the Just Eat Takeaway Group global org
-  * Writing scalable and distributed k8s Go micro-services with event based communication, internal tools and libraries to easily manage service resources
+  * Writing scalable and distributed k8s Go micro-services on AWS with event based communication, internal tools and libraries to easily manage service resources
   
 ## Flyt
 * Senior Software Engineer - 12/2020-11/2021, London, UK (Remote)
   * Senior Go Engineer and Tech Lead for Flyt (later part of Just Eat Takeaway Group)
-  * Designing and implemting distributed micro services, databases and HTTP APIs used as integrations for 3rd part customers
+  * Designing and implemting distributed micro services with k8s, databases and HTTP APIs used as integrations for 3rd part customers
   * Creating and maintaince of service interfaces and CLI scaffolding tool for infrastructure automation
   * Part of integration and platform migration into the Just Eat infrastructure during acquisition
 
