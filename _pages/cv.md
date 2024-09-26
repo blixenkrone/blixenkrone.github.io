@@ -64,7 +64,7 @@ HTTP, APIs, Networking, Security,
 Bash, Vim, IaC, Terraform/OpenTofu,
 Protobuffers, gRPC, GraphQL,
 SQL, NoSQL, GraphDB, In-mem, 
-Caching, Cloud Native
+Caching, Cloud Native, AWS
 ```
 
 ### But also
